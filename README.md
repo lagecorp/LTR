@@ -44,6 +44,8 @@ Replace `NewRepo` with the desired name for the new repository and proceed as fo
 
 This repository is inspired by — but not limited to — [Keep a Changelog](https://keepachangelog.com/), [Semantic Versioning](https://semver.org/), and the [LTR](https://github.com/lagecorp/LTR) template. Any changes made or anticipated will be documented in the [Roadmap and Changelog](./RMAP_CLOG.md) file.
 
+Check other branches for ongoing or unpublished work.
+
 ## Credits, Sponsorship, and Licensing
 
 Developed by [Ezequiel Lage](https://github.com/ezlage) *et al*. Sponsored by [Lagecorp](https://lagecorp.com) and its subsidiaries. Published under the [MIT License](./LICENSE).
